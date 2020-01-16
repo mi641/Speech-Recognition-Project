@@ -6,4 +6,3 @@ try: print("you said:" r.recognize(audio))
 ErrExcept ("your voice low")
 except 
 print("not audible" {0} }
-print = "Testing Git commands"
